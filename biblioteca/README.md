@@ -5,6 +5,5 @@
 - MariaDB instalado
 
 ## Instalación de MariaDB (Linux / Windows / Mac)
-(pon los comandos según tu SO)
 
 ### Crear base de datos
